@@ -23,3 +23,5 @@ different sectors
 'capital-loss'
 
 # Note
+1. Please refer Screenshot directory for output of Screenshot 
+2. Please refer Sourcecode directory for Pyhton Sourcecode file
